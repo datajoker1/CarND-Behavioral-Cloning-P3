@@ -101,7 +101,6 @@ As the goal was to predict steering angles on a road; I cropped out unuseful por
 			<ul>
 				<li>Neurons: 50</li>
 				<li>DropOut: 0.5</li>
-				<li>Activation: relu</li>
 			</ul>
 		</td>
 	</tr>
